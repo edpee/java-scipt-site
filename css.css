@@ -1,0 +1,53 @@
+body{
+    font-family:  sans-serif;
+}
+.home button{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    float: left;
+
+    
+}
+.title img{
+    width: 150px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.navbuttons button{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+
+}
+header{
+    background-color: rgb(240, 220, 78);
+    float: none;
+}
+section{
+    align-items: center;
+    
+}
+nav{
+    background-color: rgb(50, 50, 48);
+    
+}
+footer{
+    background-color:rgb(240, 220, 78) ;
+    color: rgb(50, 50, 48);;
+    text-align: center;
+    font-style: bold;
+    height: 100px; ;
+}
+.button1{
+    align-items: center;
+}
+.button2{
+    align-self: center;
+}
+.button3{
+    
+}
